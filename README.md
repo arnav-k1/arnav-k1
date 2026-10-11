@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡Check out: https://vanguard-tracker-gxvk.vercel.app/
-- 🔭 I’m currently working on "Instragram Compete", a full stack mobile application designed to decrease the amount of time you spend on the apps
-- 😄 I’m currently using Next.js & React.js.
+# Hi, I'm Arnav 👋
+
+Data Engineering @ Texas A&M '27 · Former Data Engineering Intern @ Citizens · Seeking 2027 new grad SWE & data engineering roles
+
+I build end-to-end: data pipelines, full-stack apps, and trading algorithms.
+
+### 🚀 Featured Projects
+- **[StrideMap](https://github.com/arnav-k1/stridemap):** Offline-first React Native + TypeScript app that turns your daily steps into virtual journeys between real places (SQLite, Drizzle ORM, Zustand, Google Maps)
+- **[Vanguard Price Tracker](https://vanguard-tracker-gxvk.vercel.app):** Next.js 15 app tracking live ETF prices with sparkline charts and threshold-based email alerts
+- **[Poster Maker](https://poster-maker-psi.vercel.app):** Web app for designing and printing custom posters at home
+
+### 🛠 Tech
+**Languages:** Python · C++ · TypeScript/JavaScript · SQL · R
+**Web & Mobile:** React · React Native · Next.js · Node.js
+**Data:** AWS (S3, Athena) · Snowflake · dbt · Airflow · Pandas · scikit-learn
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/arnav-karnati/) · arnav.a.karnati@gmail.com
