@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡Check out: https://poster-maker-psi.vercel.app/
+- ⚡Check out: https://vanguard-tracker-gxvk.vercel.app/
 - 🔭 I’m currently working on "Instragram Compete", a full stack mobile application designed to decrease the amount of time you spend on the apps
 - 😄 I’m currently using Next.js & React.js.
