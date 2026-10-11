@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#
 Data Engineering @ Texas A&M '27 · Former Data Engineering Intern @ Citizens · Seeking 2027 new grad SWE & data engineering roles
 
 I build end-to-end: data pipelines, full-stack apps, and trading algorithms.
